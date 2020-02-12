@@ -1,0 +1,33 @@
+#container div{
+  display:block;
+  width: 30%;
+  position: absolute;
+}
+.profile11{
+  margin-left: 10%;
+}
+.profile12{
+  margin-left: 40%;
+}
+.profile13{
+  margin-left: 70%;
+}
+#container img{
+  height: 400px;
+  width: 250px;
+}
+#container button{
+  margin-left: 100px;
+}
+/* #container button{
+  float: left;
+}
+#sazid{
+  margin-left: 100px;
+}
+#jyoti{
+  margin-left: 150px;
+}
+#joy{
+  margin-left: 200px;
+} */
